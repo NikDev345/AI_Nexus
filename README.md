@@ -227,7 +227,7 @@ created_at
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-News-Aggregator.git
+git clone https://github.com/NikDev345/AI-Nexus.git
 
 cd AI-News-Aggregator
 ```
