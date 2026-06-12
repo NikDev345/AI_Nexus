@@ -1,9 +1,9 @@
-# 🚀 AI News Aggregator
+# 🚀 AI Nexus
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-blue)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red)
 ![Gemini](https://img.shields.io/badge/Google-Gemini-orange)
