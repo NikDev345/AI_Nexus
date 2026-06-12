@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Database
+*.db
+
+# Generated Files
+daily_digest.html
+
+# OS
+.DS_Store
+Thumbs.db
